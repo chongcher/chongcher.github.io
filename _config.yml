@@ -22,6 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 flickr_username: chongcher
 github_username:  chongcher
+telegram_username:  cheekycheeky
 
 # Build settings
 markdown: kramdown
@@ -43,4 +44,12 @@ plugins:
 
 header_pages:
 #  - about.md
+  - blog.md
+  - life.md
   - schedule.md
+
+excerpt_separator: <!--more-->
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
