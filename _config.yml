@@ -47,6 +47,7 @@ header_pages:
   - blog.md
   - life.md
   - schedule.md
+  - vcard.md
 
 excerpt_separator: <!--more-->
 show_excerpts: true
