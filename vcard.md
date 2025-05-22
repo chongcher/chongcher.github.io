@@ -4,14 +4,11 @@ title: vCard
 permalink: /vcard/
 ---
 
-<a href="chia_chongcher.vcf" title="Click on QR to save vcard to your phone/PC">
-
-
 <center>
    <figure>
-      <a href="{{ site.url }}/chia_chongcher.vcf" title="Scan or click on QR to save vcard to your phone/PC">
-      <img src="{{ site.url }}/chia_chongcher.png" alt="Scan me to add contact into your phone">
+      <a href="{{ site.url }}/chia_chongcher.vcf" title="Please scan or click on the QR code to save the vCard to your device">
+      <img src="{{ site.url }}/chia_chongcher.png" alt="Please scan the QR code to download the vCard">
       </a>
-      <figcaption>Scan or click on QR</figcaption>
+      <figcaption>Please scan or click on the QR code to save the vCard to your device</figcaption>
    </figure>
 </center>
