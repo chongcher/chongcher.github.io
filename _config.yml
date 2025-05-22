@@ -45,8 +45,8 @@ plugins:
 header_pages:
 #  - about.md
   - blog.md
-  - life.md
-  - schedule.md
+#  - life.md
+#  - schedule.md
   - vcard.md
 
 excerpt_separator: <!--more-->
