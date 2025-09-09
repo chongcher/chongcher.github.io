@@ -16,13 +16,13 @@
 title: Chia Chong Cher | Чиа Чонг Чер | Tạ Tông Triết
 email: hi@chongcher.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Student at Singapore Management University
-  Interested in NLP and machine learning
+  Driving digital transformation in legal services.
+  Sometimes I cook.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.chongcher.com" # the base hostname & protocol for your site, e.g. http://example.com
 flickr_username: chongcher
 github_username:  chongcher
-telegram_username:  cheekycheeky
+# telegram_username:  cheekycheeky
 
 # Build settings
 markdown: kramdown
