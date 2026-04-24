@@ -3,6 +3,6 @@
 
 @import "minima";
 
-div.wrapper:has(iframe) {
+div.wrapper {
   max-width: 50vw;
 }
