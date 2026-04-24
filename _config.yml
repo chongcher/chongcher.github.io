@@ -20,9 +20,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sometimes I cook.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.chongcher.com" # the base hostname & protocol for your site, e.g. http://example.com
-flickr_username: chongcher
-github_username:  chongcher
-# telegram_username:  cheekycheeky
 
 # Build settings
 markdown: kramdown
@@ -60,4 +57,12 @@ minima:
     - blog.md
     - schedule.md
     - vcard.md
+  social_links:
+    - title: some-code
+      icon: github
+      url: "https://github.com/chongcher"
+    - title: some-photos
+      icon: flickr
+      url: "https://www.flickr.com/photos/chongcher"
+  hide_site_feed_link: true
 
