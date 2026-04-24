@@ -26,13 +26,9 @@ github_username:  chongcher
 
 # Build settings
 markdown: kramdown
-## UPGRADE TO MINIMA V3.0
-#theme: minima
-#plugins:
-  - jekyll-feed
-remote_theme: jekyll/minima
+theme: minima
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
