@@ -56,3 +56,8 @@ show_excerpts: true
 
 minima:
   date_format: "%Y-%m-%d"
+  nav_pages:
+    - blog.md
+    - schedule.md
+    - vcard.md
+
