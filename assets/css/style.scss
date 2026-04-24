@@ -1,8 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-
-div.wrapper:has(iframe) {
-  max-width: 50vw;
-}
