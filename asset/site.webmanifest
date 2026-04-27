@@ -3,13 +3,13 @@
   "short_name": "ChongCher",
   "icons": [
     {
-      "src": "/asset/web-app-manifest-192x192.png?v=20260427",
+      "src": "/asset/web-app-manifest-192x192.png?v=20260428",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/asset/web-app-manifest-512x512.png?v=20260427",
+      "src": "/asset/web-app-manifest-512x512.png?v=20260428",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
