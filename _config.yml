@@ -64,5 +64,8 @@ minima:
     - title: some-photos
       icon: flickr
       url: "https://www.flickr.com/photos/chongcher"
+    - title: some-linkedin
+      icon: linkedin-in
+      url: "https://www.linkedin.com/in/chongcher/"
   hide_site_feed_link: true
 
